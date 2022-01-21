@@ -1,2 +1,1 @@
-this is first intent code
-
+this is all intents...

@@ -1,1 +1,4 @@
 this is all intents...
+intent 1 is Login 
+intent 2 is Signup
+Intent 3 is Home page

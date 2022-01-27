@@ -1,1 +1,4 @@
 code for buttons
+loginBtn.setOnclickListner(OnClickListener){
+  
+}

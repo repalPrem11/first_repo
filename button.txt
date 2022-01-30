@@ -1,4 +1,4 @@
 code for buttons
 loginBtn.setOnclickListner(OnClickListener){
-  
+  System.out.println("button clicked");
 }

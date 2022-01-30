@@ -1,2 +1,6 @@
 basic file is modified..
+<<<<<<< HEAD
 this is second line...
+=======
+pppppppppppppppppppppppppppppppppppppppp
+>>>>>>> 182fa4637bb07e4921608dbdddf5a96999d6e8fd
